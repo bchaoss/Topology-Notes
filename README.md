@@ -4,7 +4,7 @@
 Handwritten lecture notes on Topology, undergraduate level.
 
 内容包括两部分: 点集拓扑 (~60%); 代数拓扑 (~40%). <br>
-Covering point-set topology (~60%) and algebraic topology (~60%) .
+Covering point-set topology (~60%) and algebraic topology (~40%) .
 
 个人笔记存档, 不保证无错漏或笔误. <br>
 Personal notes for archival purposes; errors or typos are not guaranteed to be absent.
