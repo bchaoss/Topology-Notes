@@ -9,10 +9,7 @@ Covering point-set topology (~60%) and algebraic topology (~60%) .
 个人笔记存档, 不保证无错漏或笔误. <br>
 Personal notes for archival purposes; errors or typos are not guaranteed to be absent.
 
----
-
-*PDF 格式, 有原图(木制色纸张)与黑白两个版本.* <br>
-*PDF in two versions: original scan with wooden-toned paper, and a black-and-white version.*
+> *PDF in two versions: original scan with wooden-toned paper, and a black-and-white version.*
 
 ---
 
